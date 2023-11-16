@@ -3,5 +3,6 @@ public class Main {
         Order order = new Order();
         System.out.println(order);
         System.out.printf("Hello and welcome!");
+        System.out.println("it is main class");
     }
 }
