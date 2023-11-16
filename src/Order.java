@@ -4,7 +4,9 @@ public class Order {
     public Order() {
 
     }
-
+    public Order(int count) {
+        this.count = count;
+    }
 
 
 }
