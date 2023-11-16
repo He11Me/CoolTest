@@ -16,4 +16,7 @@ public class Order {
         return "Order has count -  " + count;
     }
 
+    public static String sayName() {
+        return "order class";
+    }
 }
